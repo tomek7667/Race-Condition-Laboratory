@@ -18,3 +18,7 @@
 3. Open second terminal in the project directory
 4. Run `npm run attack`
 5. Go to the browser and refresh the page
+
+## More
+
+Learn more with [portswigger](https://portswigger.net/web-security/race-conditions)
