@@ -1,0 +1,19 @@
+{
+	"name": "race-condition-laboratory",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"attack": "node race-condition.js",
+		"start": "node app.js"
+	},
+	"author": "tomek7667",
+	"license": "ISC",
+	"engines": {
+		"node": "~20"
+	},
+	"engineStrict": true,
+	"dependencies": {
+		"express": "4.18.2"
+	}
+}
